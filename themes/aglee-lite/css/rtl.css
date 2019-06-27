@@ -1,0 +1,111 @@
+.top-header .call-us {
+	float: left;
+}
+.menu-menu-1-container {
+	text-align: left;
+}
+.header-logo-only .site-branding {
+	text-align: right;
+}
+#cta-container aside.widget .cta-btn-wrap {
+	text-align: left;
+	margin-left: 0;
+	margin-right: 13%;
+}
+.icon-text-block-wrapper .widget {
+	float: right;
+	margin-right: 0%;
+	margin-left: 5%;
+}
+.icon-text-block-wrapper .widget:nth-of-type(3n) {
+	margin-left: 0;
+}
+#icon-text-block-container .icon-image, #icon-text-block-container .widget .icon-image {
+	float: right;
+	margin: 0 0 0 20px;
+}
+#icon-text-block-container .icon-wrap,
+.search-form > label {
+	float: right;
+}
+.aglee-search .search-form > input[type='submit'] {
+	margin-left: 0;
+	margin-right: 6px;
+}
+.readmore-button:after {
+	left: -15px;
+	right: inherit;
+}
+.ap_toggle.close .ap_toggle_title:before, .ap_toggle.open .ap_toggle_title:before {
+	border-left: none;
+	border-right: 1px solid #f2f2f2;
+	padding-right: 20px;
+	padding-left: 0px;
+	left: 20px;
+	right:inherit;
+}
+#testimonial-container {
+	float: right;
+	margin-right: 3%;
+	margin-left: 0;
+}
+#testimonial-container .testimonial_content {
+	float: right;
+	margin: 0 0 0 4%;
+}
+#services-container aside.widget .service-post-wrap {
+	float: right;
+	margin-right: 0%;
+	margin-left: 3%;
+}
+#services-container aside.widget .service-post-wrap:nth-child(odd) {
+	margin-left: 0;
+}
+#services-container aside.widget .service-post-wrap figure.services-post-thumbnail {
+	float: right;
+	margin-left: 4%;
+	margin-right: 0;
+}
+#services-container aside.widget .services_caption_wrap {
+	float: right;
+	text-align: right;
+}
+.archive .category-blogs .entry-title,
+.woocommerce h2,
+.search .entry-title,
+.page article.hentry .entry-title,
+.page .entry-header .entry-title,
+.single .category-blogs .entry-title,
+.archive .entry-header .entry-title,
+.home .entry-content .blog-title,
+#secondary .widget-title,
+.page-header .page-title {
+	border-right: 3px solid #295074;
+	border-left: none;
+}
+.blog-image-medium .blog_listing_img, .blog-image-alternate-medium .blog_listing_img {
+	float: right;
+	margin-left: 3%;
+	margin-right: 0;
+}
+.blog-image-alternate-medium .category-blog:nth-of-type(even) .blog_listing_img {
+    float: left;
+    margin-left: 0;
+    margin-right: 3%;
+}
+.error-404 .page-content .err::after {
+	left: 50px;
+	right: 0;
+}
+.error-404 .page-header .page-title {
+	border-right: none;
+}
+.contactus-map iframe {
+    float: left;
+    margin-right: 5%;
+    margin-left: 0;
+}
+.contactus-content {
+    float: right;
+    text-align: right;
+}

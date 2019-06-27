@@ -1,0 +1,20 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_aglee-lite">
+            <key name="header_text_setting" />
+            <key name="aglee_lite_footertext" />
+            <key name="aglee_lite_features_section_title" />
+            <key name="aglee_lite_toggle_section_title" />
+            <key name="aglee_lite_testimonial_section_title" />
+            <key name="aglee_lite_services_section_title" />
+            <key name="home_page_translation" />
+            <key name="home_page_moreinfo" />
+            <key name="blog_page_translation" />
+            <key name="tagged_post_page" />
+            <key name="postedon_post_page" />
+            <key name="by_post_page" />
+            <key name="in_post_page" />
+            <key name="search_page_setting" />
+        </key>
+    </admin-texts>
+</wpml-config>
